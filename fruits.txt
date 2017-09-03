@@ -4,3 +4,6 @@ cherries
 kiwi
 mangoes
 papayas
+guavas
+pineapple
+strawberries
